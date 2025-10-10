@@ -20,7 +20,7 @@ I love solving problems, experimenting with new tools, and working on projects t
 ## 🚀 What I Do
 - 💻 **Front-end:** Next.js, React, Tailwind CSS – turning ideas into butter-smooth, responsive interfaces.  
 - ⚙️ **Back-end:** Node.js, Express.js, APIs – building reliable systems with performance in mind.  
-- 🗄️ **Databases:** MySQL, Supabase, MongoDB – designing structures that scale.  
+- 🗄️ **Databases:** MySQL, Supabase – designing structures that scale.  
 - 🌐 **Full-stack Projects:** From idea → design → deployment.  
 
 ---
