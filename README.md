@@ -34,9 +34,10 @@ I love solving problems, experimenting with new tools, and working on projects t
 ---
 
 ## 📌 Projects You Might Like
+- [**CustomClinicPath**](#) → An algorithm visualizes and calculates individually customized reference intervals for every single patient.
+- [**Admin Dashboard**](#) → SQL + PHP + Bootstrap dashboard delivering insights with 95% client satisfaction.  
 - [**Simple English – IELTS Platform**](https://www.ipu.com.vn/) → An online learning and exam platform built with Next.js + NestJS.  
 - [**Real-time Server Optimization**](#) → Used Socket.io & p-queue to scale server load 300% and eliminate misrouted data.  
-- [**Admin Dashboard**](#) → SQL + PHP + Bootstrap dashboard delivering insights with 95% client satisfaction.  
 
 ---
 
@@ -50,4 +51,4 @@ I love solving problems, experimenting with new tools, and working on projects t
 📫 **Let’s Connect!**  
 [LinkedIn](https://www.linkedin.com/in/tran-duc-anh/) • [Email](mailto:tranducanh211103@gmail.com)  
 
-> “Code is more than syntax — it’s about solving problems and creating value.”
+> “Code is more than syntax, it’s about solving problems and creating value.”
